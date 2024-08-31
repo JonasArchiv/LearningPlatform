@@ -1,0 +1,64 @@
+{
+    "benutzer": [
+        {
+            "benutzername": "Jonas",
+            "passwort": "1234",
+            "rolle": "Student"
+        },
+        {
+            "benutzername": "Test",
+            "passwort": "1234",
+            "rolle": "Creator"
+        },
+        {
+            "benutzername": "Tester",
+            "passwort": "1234",
+            "rolle": "Student"
+        }
+    ],
+    "kurse": [
+        {
+            "titel": "Test Kurs",
+            "creator": "Test",
+            "lektionen": [
+                {
+                    "titel": "Mache mit",
+                    "inhalt": "Mache immer mit",
+                    "fragen": [
+                        {
+                            "frage_text": "Was sollt iht machen?",
+                            "richtige_antwort": "mit",
+                            "antworten": [
+                                "mit",
+                                " nix",
+                                " alles"
+                            ]
+                        },
+                        {
+                            "frage_text": "",
+                            "richtige_antwort": "",
+                            "antworten": [
+                                ""
+                            ]
+                        },
+                        {
+                            "frage_text": "",
+                            "richtige_antwort": "",
+                            "antworten": [
+                                ""
+                            ]
+                        },
+                        {
+                            "frage_text": "",
+                            "richtige_antwort": "",
+                            "antworten": [
+                                ""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "fortschritte": []
+}
